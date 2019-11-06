@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">myServer</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_donate">Donate</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="wake_on_lan_header">Wake-on-LAN Options</string>
+    <string name="ssh_header">SSH Options</string>
+
+    <!-- Wake-on-LAN Preferences -->
+    <string name="hostname">Hostname or IP</string>
+    <string name="mac_address">MAC Address</string>
+    <string name="port">Port</string>
+
+    <!-- Wake-on-LAN Descriptions -->
+    <string name="hostname_description">Hostname or IP</string>
+    <string name="mac_address_description">MAC Address</string>
+    <string name="port_description">Port</string>
+
+    <!-- SSH Preferences -->
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="ssh_port">SSH Port</string>
+
+    <!-- UI -->
+    <string name="online">Online</string>
+    <string name="offline">Offline</string>
+    <string name="hostname_not_specified">Hostname or IP not specified.</string>
+    <string name="wakeup">Wake Up</string>
+    <string name="shutdown">Shutdown</string>
+    <string name="refresh">Refresh Status</string>
+    <string name="host">Host is:</string>
+    <string name="initial_host">Press \'Refresh Status\' to update.</string>
+
+    <!-- TOASTS -->
+    <string name="updating_status">Updating status &#8230;</string>
+    <string name="status_updated">Status updated.</string>
+    <string name="ip_not_specified">IP or Hostname not specified.</string>
+    <string name="sending_wol_packets">Sending Wake-on-LAN packets &#8230;</string>
+    <string name="wol_packets_send">Wake-On-LAN packets send.</string>
+    <string name="wol_packets_failed">Failed sending Wake-on-LAN packets.</string>
+    <string name="wol_preferences_not_set">Wake-on-LAN preferences not set.</string>
+    <string name="sending_shutdown_cmd">Sending shutdown command &#8230;</string>
+    <string name="shutdown_cmd_send">Shutdown command successfully send.</string>
+    <string name="shutdown_cmd_failed">Failed to send shutdown command.</string>
+    <string name="ssh_preferences_not_set">SSH preferences not set.</string>
+
+
+    <!-- Error messages -->
+    <string name="error_fragment_message">An error occurred</string>
+    <string name="dismiss_error">Dismiss</string>
+</resources>

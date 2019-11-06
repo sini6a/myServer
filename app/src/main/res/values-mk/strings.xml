@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">myServer</string>
+    <string name="action_settings">Подесувања</string>
+    <string name="action_donate">Донирај</string>
+    <string name="title_activity_settings">Подесувања</string>
+
+    <!-- Preference Titles -->
+    <string name="wake_on_lan_header">Wake-on-LAN Подесувања</string>
+    <string name="ssh_header">SSH Подесувања</string>
+
+    <!-- Wake-on-LAN Preferences -->
+    <string name="hostname">Име на хост или IP Адреса</string>
+    <string name="mac_address">MAC Адреса</string>
+    <string name="port">Порта</string>
+
+    <!-- Wake-on-LAN Descriptions -->
+    <string name="hostname_description">Име на хост или IP Адреса</string>
+    <string name="mac_address_description">MAC Адреса</string>
+    <string name="port_description">Порта</string>
+
+    <!-- SSH Preferences -->
+    <string name="username">Корисничко име</string>
+    <string name="password">Лозинка</string>
+    <string name="ssh_port">SSH Порта</string>
+
+    <!-- UI -->
+    <string name="online">Онлајн</string>
+    <string name="offline">Офлајн</string>
+    <string name="hostname_not_specified">Нема специфицирано име на хост или IP адреса.</string>
+    <string name="wakeup">Вклучи</string>
+    <string name="shutdown">Исклучи</string>
+    <string name="refresh">Освежи статус</string>
+    <string name="host">Хостот е:</string>
+    <string name="initial_host">Притисни \'Освежи статус\' за ажурирање.</string>
+
+    <!-- TOASTS -->
+    <string name="updating_status">Ажурирање во тек &#8230;</string>
+    <string name="status_updated">Успешно ажурирано.</string>
+    <string name="ip_not_specified">Нема специфицирано IP или име на домаќин.</string>
+    <string name="sending_wol_packets">Испраќање Wake-on-LAN пакети &#8230;</string>
+    <string name="wol_packets_send">Wake-On-LAN пакетите се испратени.</string>
+    <string name="wol_packets_failed">Грешка при праќање Wake-on-LAN пакети.</string>
+    <string name="wol_preferences_not_set">Нема специфицирано подесувања за Wake-on-LAN.</string>
+    <string name="sending_shutdown_cmd">Испраќање команда за исклучување &#8230;</string>
+    <string name="shutdown_cmd_send">Командата за исклучување е успешно испратена.</string>
+    <string name="shutdown_cmd_failed">Грешка при испраќање на команда за исклучување.</string>
+    <string name="ssh_preferences_not_set">Нема специфицирано подесувања за SSH.</string>
+
+    <!-- Error messages -->
+    <string name="error_fragment_message">Се случи грешка.</string>
+    <string name="dismiss_error">Dismiss</string>
+</resources>

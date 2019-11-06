@@ -1,0 +1,16 @@
+<resources>
+    <!-- Wake-On-LAN Port Preference -->
+    <string-array name="wake_on_lan_port_keys">
+        <item>9</item>
+        <item>7</item>
+    </string-array>
+    <string-array name="wake_on_lan_port_values">
+        <item>9</item>
+        <item>7</item>
+    </string-array>
+
+    <!-- SSH Port Preference -->
+    <string-array name="ssh_port_keys">
+        <item>22</item>
+    </string-array>
+</resources>

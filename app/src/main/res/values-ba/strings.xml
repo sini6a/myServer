@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">myServer</string>
+    <string name="action_settings">Postavke</string>
+    <string name="action_donate">Doniraj</string>
+    <string name="title_activity_settings">Postavke</string>
+
+    <!-- Preference Titles -->
+    <string name="wake_on_lan_header">Wake-on-LAN Postavke</string>
+    <string name="ssh_header">SSH Postavke</string>
+
+    <!-- Wake-on-LAN Preferences -->
+    <string name="hostname">Ime hosta ili IP adresa</string>
+    <string name="mac_address">MAC Adresa</string>
+    <string name="port">Porta</string>
+
+    <!-- Wake-on-LAN Descriptions -->
+    <string name="hostname_description">Ime hosta ili IP adresa</string>
+    <string name="mac_address_description">MAC Adresa</string>
+    <string name="port_description">Porta</string>
+
+    <!-- SSH Preferences -->
+    <string name="username">Korisničko ime</string>
+    <string name="password">Lozinka</string>
+    <string name="ssh_port">SSH Porta</string>
+
+    <!-- UI -->
+    <string name="online">Online</string>
+    <string name="offline">Offline</string>
+    <string name="hostname_not_specified">Nije navedeno ime hosta ili IP adresa.</string>
+    <string name="wakeup">Probudi</string>
+    <string name="shutdown">Isključi</string>
+    <string name="refresh">Osvježi status</string>
+    <string name="host">Host je:</string>
+    <string name="initial_host">Pritisnite \'Osvježi status\' za ažuriranje.</string>
+
+    <!-- TOASTS -->
+    <string name="updating_status">Ažuriranje u tijeku &#8230;</string>
+    <string name="status_updated">Uspešno ažurirano.</string>
+    <string name="ip_not_specified">Nije naveden IP ili ime hosta.</string>
+    <string name="sending_wol_packets">Slanje Wake-on-LAN paketa &#8230;</string>
+    <string name="wol_packets_send">Wake-On-LAN paketi su poslati.</string>
+    <string name="wol_packets_failed">Greška pri slanja Wake-on-LAN paketa.</string>
+    <string name="wol_preferences_not_set">Nisu navedeni postavke za Wake-on-LAN.</string>
+    <string name="sending_shutdown_cmd">Slanje naredbe za gašenje &#8230;</string>
+    <string name="shutdown_cmd_send">Uspješno je poslana naredba za gašenje.</string>
+    <string name="shutdown_cmd_failed">Greška pri slanja naredbe za gašenje.</string>
+    <string name="ssh_preferences_not_set">Nisu navedeni postavke za SSH.</string>
+
+    <!-- Error messages -->
+    <string name="error_fragment_message">Došlo je do greške.</string>
+    <string name="dismiss_error">Dismiss</string>
+</resources>
