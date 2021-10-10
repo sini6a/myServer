@@ -8,8 +8,7 @@ myServer is a software for controling power states on remote or local computer i
 
 **Important note:** Target must have preconfigured *Wake-on-LAN* and *SSH*.
 
-Download from *Play Store*
-https://play.google.com/store/apps/details?id=info.sini6a.archserver
+Download from *Play Store*: https://play.google.com/store/apps/details?id=info.sini6a.archserver
 
 ## Features
   
@@ -26,8 +25,7 @@ https://play.google.com/store/apps/details?id=info.sini6a.archserver
 **Step 2:** After clicking on the  **Project from Version Control** a pop-up screen will arise. In the  **Version control**  choose  **Git**  from the drop-down menu.
 **Step 3:**  Then at last  **paste the link in the URL**  and choose your  **Directory**. Click on the  **Clone**  button and you are done.
 
-Source
-https://www.geeksforgeeks.org/how-to-clone-android-project-from-github-in-android-studio/
+Source: https://www.geeksforgeeks.org/how-to-clone-android-project-from-github-in-android-studio/
 
 ## Usage
 
