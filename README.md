@@ -1,5 +1,5 @@
 
-# # myServer
+# myServer
 ![Icon](/screenshots/icon.png?raw=true "Icon")
 
 myServer is project written in **Kotlin** programming language and *Android* framework.
