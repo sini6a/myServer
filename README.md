@@ -43,10 +43,12 @@ In order to use power state detection, target machine must have *HTTP* service e
 ## Additional reading and instructions
 
 Wake-on-LAN
+
 https://en.wikipedia.org/wiki/Wake-on-LAN
 https://www.howtogeek.com/70374/how-to-geek-explains-what-is-wake-on-lan-and-how-do-i-enable-it/
 
 SSH
+
 https://en.wikipedia.org/wiki/Secure_Shell
 https://www.howtogeek.com/336775/how-to-enable-and-use-windows-10s-built-in-ssh-commands/
 https://osxdaily.com/2016/08/16/enable-ssh-mac-command-line/
@@ -54,11 +56,11 @@ https://linuxize.com/post/how-to-enable-ssh-on-ubuntu-18-04/
 
 ## Screenshots
 
-![Screenshot #1](/screenshots/Artwork1.png?raw=true "Screenshot #1")
+![Screenshot #1](/screenshots/Artboard1.png?raw=true "Screenshot #1")
 
-![Screenshot #2](/screenshots/Artwork2.png?raw=true "Screenshot #2")
+![Screenshot #2](/screenshots/Artboard2.png?raw=true "Screenshot #2")
 
-![Screenshot #3](/screenshots/Artwork3.png?raw=true "Screenshot #3")
+![Screenshot #3](/screenshots/Artboard3.png?raw=true "Screenshot #3")
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
